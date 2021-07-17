@@ -3,8 +3,9 @@ layout: cv
 title: Kate Strydom's Resume
 ---
 # Kate Strydom
-  
+<div>
  A data scientist unicorn who is good at everything but a master of none. Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre. Lifelong learning to stay a breast of technology changes and improve professional development.
+</div>
 
 <div id="webaddress">
   <a href="strydks@gmail.com">strydks@gmail.com</a>
@@ -24,7 +25,7 @@ __Brigham Young University - Idaho (online)__, Rexburg, ID, USA
 __Unisa Short learning Programme (SLP)__, Pretoria, Gauteng
 Facilitation of Learning for Tutors in Higher Education Certificate with 100%
 
-`1996-2000`
+`1996 - 2000`
 __Unisa__, Pretoria, Gauteng
 Hons BSc Statistics Unisa
 
@@ -54,7 +55,7 @@ __Rewardsco__, Umhlanga, KZN
 
 ### Data Scientist Team Lead
 
-`August 2014 – September 2018 `
+`August 2014 – September 2018`
 __WiFire__, Mount Edgecombe, KZN
 
 Core responsibilities are a combination of data science, data engineering, data analyst and team leader tasks:
