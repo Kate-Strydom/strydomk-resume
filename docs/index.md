@@ -1,15 +1,19 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Kate Strydom's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kate Strydom
+An accomplished data scientist who has worked in market research, database marketing, banking,
+education, real estate, startup tech and call-centre lead generation, developing supervised and
+unsupervised data models used to change the way SME and coporate organisations operate. A strong
+statistical background merging with learning machine applications and data engineering. Lifelong learning
+to stay a breast of technology changes and improve professional development
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://kate-strydom.github.io/strydomk-resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
