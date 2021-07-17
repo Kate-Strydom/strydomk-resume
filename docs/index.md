@@ -3,9 +3,8 @@ layout: cv
 title: Kate Strydom's Resume
 ---
 # Kate Strydom
-<div>
+<br>
  A data scientist unicorn who is good at everything but a master of none. Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre. Lifelong learning to stay a breast of technology changes and improve professional development.
-</div>
 
 <div id="webaddress">
   <a href="strydks@gmail.com">strydks@gmail.com</a>
