@@ -94,8 +94,23 @@ __Markinor, Market Research__ Randburg, Gauteng
 - Questionnaire design, and sampling techniques.
 
 
-<!-- ### Footer
+## Core Skills
 
-Last updated: May 2013 -->
+## Work Experience
+
+- Leadership skills from faciliation, team leadership, teaching and ecclesiastical responsibilities.
+- Learning machines which includes experience with regression, logistic, naïve bayes, discriminant, decision tree, survival analysis, support vector machines, random forests, xgboost and natural language processing (NLP).
+- Multivarite analysis tools which includes experience with principle component analysis, factor analysis, k-means clustering, hierachical clustering, correspondence analysis, conjoint analysis, structural equation modelling, pc vote, ranking techniques, canonical analysis, MANOVA.
+- Text mining
+- R, Python (numpy, pandas, keras, altair), Rapidminer, SAS, JMP, SPSS.
+- Data engineering cloud computing which includes data migration and Redshift database optimisation.
+- SQL Server, SQL management studio, SQL workbench, MySQL and PostgreSQL.
+- Reporting which includes strong analytics written skills, chart building and dashboard visualisation (BIME, Power BI, Pyramid Analytics, Tableau, Excel, MS Word, Power Point).
+- Project management skills.
+
+
+<!-- ### Footer -->
+
+Last updated: July 2021
 
 
