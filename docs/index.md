@@ -15,6 +15,9 @@ title: Kate Strydom's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+<br>
+Lifelong learning to stay a breast of technology changes and improve professional development.
+<br>
 `2019 - current`
 __Brigham Young University - Idaho (online)__, Rexburg, ID, USA
  - Certificate of Business Analysis completed December 2020, included social media analytics and 4 data science projects
@@ -37,6 +40,8 @@ __Krugersdorp High School__, Krugersdorp, Gauteng
 Matriculation Certificate
 
 ## Work Experience
+<br>
+Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre. 
 
 ### Data Scientist
 
@@ -95,8 +100,6 @@ __Markinor, Market Research__ Randburg, Gauteng
 
 
 ## Core Skills
-
-## Work Experience
 
 - Leadership skills from faciliation, team leadership, teaching and ecclesiastical responsibilities.
 - Learning machines which includes experience with regression, logistic, naïve bayes, discriminant, decision tree, survival analysis, support vector machines, random forests, xgboost and natural language processing (NLP).
