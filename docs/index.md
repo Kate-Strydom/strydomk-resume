@@ -4,9 +4,7 @@ title: Kate Strydom's Resume
 ---
 # Kate Strydom
 <br>
- A data scientist unicorn who is good at everything but a master of none. Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre. Lifelong learning to stay a breast of technology changes and improve professional development.
-
-<!--- (Could move this to the bottom: Work Experience) -->
+ A data scientist unicorn who is good at everything but a master of none. 
 
 <div id="webaddress">
   <a href="strydks@gmail.com">strydks@gmail.com</a>
@@ -17,6 +15,10 @@ title: Kate Strydom's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+<br>
+Lifelong learning to stay a breast of technology changes and improve professional development.
+<b>
+
 `2019 - current`
 __Brigham Young University - Idaho (online)__, Rexburg, ID, USA
  - Certificate of Business Analysis completed December 2020, included social media analytics and 4 data science projects
@@ -39,7 +41,9 @@ __Krugersdorp High School__, Krugersdorp, Gauteng
 Matriculation Certificate
 
 ## Work Experience
-A short summary of my work experience.
+<br>
+Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre. 
+<br>
 
 ### Data Scientist
 
@@ -96,9 +100,21 @@ __Markinor, Market Research__ Randburg, Gauteng
 - Gained market research experience using multivariate techniques such as correspondence analysis,-factor analysis, conjoint analysis, structural equation modelling and ranking techniques.
 - Questionnaire design, and sampling techniques.
 
+## Skills
 
-<!-- ### Footer
+- Leadership skills from faciliation, team leadership, teaching and ecclesiastical responsibilities.
+- Learning machines which includes experience with regression, logistic, naïve bayes, discriminant, decision tree, survival analysis, support vector machines, random forests, xgboost and natural language processing (NLP)
+- Multivarite analysis tools which includes experience with principle component analysis, factor analysis, k-means clustering, hierachical clustering, correspondence analysis, conjoint analysis, structural equation modelling, pc vote, ranking techniques, canonical analysis, MANOVA.
+- Text mining
+- R, Python (numpy, pandas, keras, altair), Rapidminer, SAS, JMP, SPSS.
+- Data engineering cloud computing which includes data migration and Redshift database optimisation.
+- SQL Server, SQL management studio, SQL workbench and MySQL.
+- Reporting which includes strong analytics written skills, chart building and dashboard visualisation (BIME, Power BI, Pyramid Analytics, Tableau, Excel, MS Word, Power Point).
+- Project management skills.
 
-Last updated: May 2013 -->
+
+<!-- ### Footer -->
+
+Last updated: July 2021
 
 
