@@ -17,7 +17,6 @@ title: Kate Strydom's Resume
 ## Education
 <br>
 Lifelong learning to stay a breast of technology changes and improve professional development.
-<b>
 
 `2019 - current`
 __Brigham Young University - Idaho (online)__, Rexburg, ID, USA
@@ -41,9 +40,10 @@ __Krugersdorp High School__, Krugersdorp, Gauteng
 Matriculation Certificate
 
 ## Work Experience
+
 <br>
-Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre. 
-<br>
+Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre.
+
 
 ### Data Scientist
 
@@ -111,7 +111,6 @@ __Markinor, Market Research__ Randburg, Gauteng
 - SQL Server, SQL management studio, SQL workbench and MySQL.
 - Reporting which includes strong analytics written skills, chart building and dashboard visualisation (BIME, Power BI, Pyramid Analytics, Tableau, Excel, MS Word, Power Point).
 - Project management skills.
-
 
 <!-- ### Footer -->
 
