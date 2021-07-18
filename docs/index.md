@@ -6,6 +6,8 @@ title: Kate Strydom's Resume
 <br>
  A data scientist unicorn who is good at everything but a master of none. Worked in market research, database marketing, banking, education, real estate, startup tech and call-centre. Lifelong learning to stay a breast of technology changes and improve professional development.
 
+<!--- (Could move this to the bottom: Work Experience) -->
+
 <div id="webaddress">
   <a href="strydks@gmail.com">strydks@gmail.com</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
@@ -37,6 +39,7 @@ __Krugersdorp High School__, Krugersdorp, Gauteng
 Matriculation Certificate
 
 ## Work Experience
+A short summary of my work experience.
 
 ### Data Scientist
 
